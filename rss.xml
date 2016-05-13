@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Paintings & Draws]]></title>
-        <description><![CDATA[Paintings & Draws]]></description>
+        <title><![CDATA[Joao Teixeira's Paintings & Drawings]]></title>
+        <description><![CDATA[Joao Teixeira's Paintings & Drawings]]></description>
         <link>https://thegrid.ai/joao-marques-teixeira/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 01:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 23:41:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joao-marques-teixeira/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Windows]]></title>
+            <description><![CDATA[<article><h1>Windows</h1><p>Pastel on paper 12x24 Auth Joao Teixeira (2007)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/604542f8-ee53-4868-8834-1b0542246342.jpg"></article>]]></description>
+            <link>https://thegrid.ai/joao-marques-teixeira/windows/index.html</link>
+            <guid isPermaLink="false">afc3c88d-b0a4-464e-82ee-b8983aab7052</guid>
+            <pubDate>Fri, 13 May 2016 23:40:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Douro River - Porto - Portugal]]></title>
             <description><![CDATA[<article><h1>Douro River - Porto - Portugal</h1><p>Pastel on paper 12x24 Aut João Teixeira (2011)</p></article>]]></description>
