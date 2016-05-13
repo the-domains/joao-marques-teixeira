@@ -4,8 +4,22 @@
         <description><![CDATA[Joao Teixeira's Paintings & Drawings]]></description>
         <link>https://thegrid.ai/joao-marques-teixeira/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 23:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 23:42:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joao-marques-teixeira/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Policeman - New York (USA)]]></title>
+            <description><![CDATA[<article><h1>Policeman - New York (USA)</h1><p>Watercolor on paper 12x24 Auth João Teixeira (2009)</p></article>]]></description>
+            <link>https://thegrid.ai/joao-marques-teixeira/policeman-new-york-usa/index.html</link>
+            <guid isPermaLink="false">05764b66-a0fd-491b-844a-518534ea0812</guid>
+            <pubDate>Fri, 13 May 2016 23:41:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women ]]></title>
+            <description><![CDATA[<article><h1>Women </h1><p>Watercolor on paper 12x24 Auth João Teixeira (2009)</p></article>]]></description>
+            <link>https://thegrid.ai/joao-marques-teixeira/women/index.html</link>
+            <guid isPermaLink="false">7c2b2f3b-657b-40d3-9132-a97490296347</guid>
+            <pubDate>Fri, 13 May 2016 23:41:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Windows]]></title>
             <description><![CDATA[<article><h1>Windows</h1><p>Pastel on paper 12x24 Auth Joao Teixeira (2007)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/604542f8-ee53-4868-8834-1b0542246342.jpg"></article>]]></description>
@@ -21,25 +35,11 @@
             <pubDate>Fri, 13 May 2016 01:14:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Policeman - New York (USA)]]></title>
-            <description><![CDATA[<article><h1>Policeman - New York (USA)</h1><p>Watercolor in paper 12x24 Auth João Teixeira (2009)</p></article>]]></description>
-            <link>https://thegrid.ai/joao-marques-teixeira/policeman-new-york-usa/index.html</link>
-            <guid isPermaLink="false">05764b66-a0fd-491b-844a-518534ea0812</guid>
-            <pubDate>Fri, 13 May 2016 01:14:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Street Jazz Band - Barcelona (Spain)]]></title>
             <description><![CDATA[<article><h1>Street Jazz Band - Barcelona (Spain)</h1><p>Watercolor in paper 12x24 Auth João Teixeira (2009)</p></article>]]></description>
             <link>https://thegrid.ai/joao-marques-teixeira/street-jazz-band-barcelona-spain/index.html</link>
             <guid isPermaLink="false">7b0a254d-e3e8-480e-8a9e-a51aca64d61c</guid>
             <pubDate>Fri, 13 May 2016 01:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women ]]></title>
-            <description><![CDATA[<article><h1>Women </h1><p>Watercolor in paper 12x24 Auth João Teixeira (2009)</p></article>]]></description>
-            <link>https://thegrid.ai/joao-marques-teixeira/women/index.html</link>
-            <guid isPermaLink="false">7c2b2f3b-657b-40d3-9132-a97490296347</guid>
-            <pubDate>Fri, 13 May 2016 01:12:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
