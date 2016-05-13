@@ -1,7 +1,7 @@
 name: João Marques Teixeira
 favicon: null
-layout_spectrum: 0.24408
-typography_spectrum: 0.600856450619176
+layout_spectrum: 0
+typography_spectrum: 0.83768
 title: "Joao Teixeira's Paintings & Draws"
 cta:
   domain: null
@@ -17,13 +17,9 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5
-  lightness: 0.5
+    - '#ffffff'
+  brandStrength: 0
+  lightness: 0.5625
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
