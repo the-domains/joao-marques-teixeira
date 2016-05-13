@@ -1,5 +1,8 @@
-title: "Joao Teixeira's Paintings & Draws"
-purpose: []
+name: João Marques Teixeira
+favicon: null
+layout_spectrum: 0.2280702
+typography_spectrum: 0.83768
+title: "Joao Teixeira's Paintings & Drawings"
 collections:
   - index:
       path: /
@@ -12,26 +15,23 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.6002506
-  brandStrength: 0
-  lightness: 0.4924812
-  brandColors:
-    - '#ffffff'
-  rhythmicContrast: 0.6171679
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: João Marques Teixeira
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.83768
-layout_spectrum: 0.2280702
+color:
+  brandColors:
+    - '#ffffff'
+  brandStrength: 0
+  lightness: 0.4924812
+  saturation: 0.6002506
+  rhythmicContrast: 0.6171679
+purpose: []
